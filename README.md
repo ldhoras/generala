@@ -1,4 +1,4 @@
-# generla
+# generala
 Juego de la generala para varias personas
 Se entran los nombres de los jugadores
 Se finaliza presionando simplemente <intro> o si se prefiere f<intro>
